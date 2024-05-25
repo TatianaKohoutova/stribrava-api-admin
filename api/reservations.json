@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Espresso",
+    "ordered": false,
+    "layers": [
+      {
+        "color": "#613916",
+        "label": "espresso"
+      }
+    ],
+    "image": "/assets/cups/espresso.png"
+  }
+]
