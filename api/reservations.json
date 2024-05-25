@@ -1,14 +1,34 @@
 [
   {
     "id": 0,
-    "name": "Espresso",
-    "ordered": false,
-    "layers": [
-      {
-        "color": "#613916",
-        "label": "espresso"
-      }
-    ],
-    "image": "/assets/cups/espresso.png"
+    "new": true,
+    "confirmed": false,
+    "rejected": false,
+    "detail": {
+      "daysNumber": 2,
+      "peopleNumber": 2,
+      "meals": "polopenze",
+      "pets": false,
+      "babyBed": true,
+      "wheelchair": false,
+      "email": "tatiana@gamil.com",
+      "mobile": 774900125
+    }
+  },
+  {
+    "id": 1,
+    "new": true,
+    "confirmed": false,
+    "rejected": false,
+    "detail": {
+      "daysNumber": 4,
+      "peopleNumber": 1,
+      "meals": "snídaně",
+      "pets": true,
+      "babyBed": false,
+      "wheelchair": false,
+      "email": "bara@gamil.com",
+      "mobile": 774900125
+    }
   }
 ]
