@@ -1,13 +1,16 @@
 [
   {
     "id": 0,
+    "name": "Základ",
     "new": true,
     "confirmed": false,
     "rejected": false,
+    "arrivalDate": "21.6.2024",
+    "departurelDate": "23.6.2024",
     "detail": {
       "daysNumber": 2,
       "peopleNumber": 2,
-      "meals": "polopenze",
+      "meals": "Polopenze",
       "pets": false,
       "babyBed": true,
       "wheelchair": false,
@@ -17,13 +20,16 @@
   },
   {
     "id": 1,
+    "name": "Luxus",
     "new": true,
     "confirmed": false,
     "rejected": false,
+    "arrivalDate": "21.6.2024",
+    "departurelDate": "23.6.2024",
     "detail": {
       "daysNumber": 4,
       "peopleNumber": 1,
-      "meals": "snídaně",
+      "meals": "Snídaně",
       "pets": true,
       "babyBed": false,
       "wheelchair": false,
